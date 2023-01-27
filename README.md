@@ -11,9 +11,8 @@ Findings: Our final production database is relational.
 
 Entity Relationship Diagram (ERD)
 
-<div style="width:60px ; height:60px">
-![Entity Relationship Diagram (ERD)](Resources/ERD.png?raw=true "Entity Relationship Diagram (ERD)")
-<div>
+![Entity Relationship Diagram (ERD)](Resources/ERD.png?raw=true)
+
   
   
 
