@@ -12,6 +12,9 @@ In this project we built an ETL pipeline using Python, Pandas, and either Python
 ## Data Sources
 We worked with the data provided on the Starter Files: contacts.xlsx and crowfunding.xlsx
 
+## Software
+Jupyter Notebook, PostgreSQL, pgAdmin 4
+
 ## Findings
 Our final production database is relational.
 
@@ -19,5 +22,6 @@ Our final production database is relational.
 
 ![Entity Relationship Diagram (ERD)](Resources/ERD.png?raw=true)
 
-  
+## Summary
+The ETL process facilitates performance and helps in performing data analysis on database in an easier and faster fashion.
 
