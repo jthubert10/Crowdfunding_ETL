@@ -1,4 +1,4 @@
-# Group 1 Team
+# Group 1 
 Members: Leah Nash 💎 Sandra Braun 💎 Jared Hubert 💎 Veronica Ostapowich 💎
 
 ## Overview
