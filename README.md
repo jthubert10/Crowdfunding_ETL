@@ -9,4 +9,4 @@ Data Sources
 
 We worked with the data provided on the Starter Files: contacts.xlsx and crowfunding.xlsx
 
-![alt text](https://github.com/jthubert10/Crowfunding_ETL/Main/Resources/ERD.png?raw=true)
+![Entity Relationship Diagram (ERD)](Resources/ERD.png?raw=true)
