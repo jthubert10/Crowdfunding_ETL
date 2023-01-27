@@ -17,6 +17,7 @@ Jupyter Notebook, PostgreSQL, pgAdmin 4
 
 ## Findings
 Our final production database is relational. 
+
 Once we built the database with SQL further analysis can be performed and reports can be created for company stakeholders.
 
 ## Entity Relationship Diagram (ERD)
