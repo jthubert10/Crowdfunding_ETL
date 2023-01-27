@@ -14,10 +14,11 @@ Data Sources: We worked with the data provided on the Starter Files: contacts.xl
 
 Findings: Our final production database is relational.
 
-Entity Relationship Diagram (ERD)
-
-![Entity Relationship Diagram (ERD)](Resources/ERD.png?raw=true)
-
+<img
+  src="Resources/ERD.png"
+  alt="Alt text"
+  title="Entity Relationship Diagram (ERD)"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
   
 
