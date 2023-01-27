@@ -25,5 +25,5 @@ Once we built the database with SQL further analysis can be performed and report
 ![Entity Relationship Diagram (ERD)](Resources/ERD.png?raw=true)
 
 ## Summary
-We have learned that ETL process facilitates performance and helps in performing data analysis on database in an easier and faster fashion.
+We have learned that ETL process facilitates performance and helps in performing data analysis on database with ease and in less time making it more efficient.
 
