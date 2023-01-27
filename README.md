@@ -3,10 +3,17 @@ Members: Leah Nash, Sandra Braun, Jared Hubert, Veronica Ostapowich
 
 Overview
 
-In this project we built an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
+In this project we built an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. Once the data was transformed, we created four CSV files and use the CSV file data to create an ERD and a table schema. The final CSV file data was uploaded into a Postgres database.
 
-Data Sources
+Data Sources: We worked with the data provided on the Starter Files: contacts.xlsx and crowfunding.xlsx
 
-We worked with the data provided on the Starter Files: contacts.xlsx and crowfunding.xlsx
+Findings: Our final production database is relational.
 
-![Entity Relationship Diagram (ERD)](Resources/ERD.png?raw=true)
+Entity Relationship Diagram (ERD)
+
+<div style="width:60px ; height:60px">
+![Entity Relationship Diagram (ERD)](Resources/ERD.png?raw=true "Entity Relationship Diagram (ERD)")
+<div>
+  
+  
+
