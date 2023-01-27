@@ -10,5 +10,4 @@ Data Sources
 We worked with the data provided on the Starter Files: contacts.xlsx and crowfunding.xlsx
 
 
-<img src=" https://github.com/jthubert10/Crowdfunding_ETL/blob/main/Resources/ERD.png
-" alt="Entity Relationship Diagram (ERD)" title=" Entity Relationship Diagram (ERD)">
+<img src=" https://github.com/jthubert10/Crowdfunding_ETL/blob/main/Resources/ERD.png" alt="Entity Relationship Diagram (ERD)" title=" Entity Relationship Diagram (ERD)">
